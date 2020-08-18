@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Yingxi-Chen/resume/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yingxi-Chen/resume/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+#Yingxi Chen
+- Address	:No. 200, Xiaolingwei Street, Xuanwu District, Nanjing City, Jiangsu Province,P. R. China
+- E-mail	:chenying2303@icloud.com
+- Birth		:28/February/1995
+- Gender	:Female
+- Nationality	:P. R. China
+#AIM
+- PhD in Max Planck Institute of Molecular Plant Physiology
+#PROJECTS
+- Construction of Efficient Fluorescent Reporters for Chlamydomonas reinhardtii (Leader)
+- Analyzation Chlamydomonas reinhardtii LOV Domain Mutants’ Proteomics by iTRAQ (Leader)
+- Generation Overexpression Chlamydomonas reinhardtii Mutants from S1D2 (Leader)
+- Expression and Purification AmtB from Escherichia coli (Aider)
+- Generation Overexpression Chlamydomonas reinhardtii Mutants from CW15 & CC621 (Aider)
+#ACHIEVEMENTS
+- Yingxi Chen, Defu Wang, Lijun Zhou, Min Zhou and Yinghong Lu, An Efficient and Stable Fluorescent Reporter for Chlamydomonas reinhardtii (Under preparation)
+- Yingxi Chen，Yinghong Lu and Min Zhou, Simple Toolkit for Nuclear Engineering of Chlamydomonas reinhardtii (Under preparation)
+- Yinghong Lu, Yingxi Chen, Defu Wang and Lijun Zhou, Superfolder Venus Yellow Fluorescent Protein and Its Expression in Chlamydomonas reinhardtii, Chinese Patents: 201910347575.3 (Applied)
+- Min Zhou, Yingxi Chen, Yinghong Lu, Mu Chen and Defu Wang, PCR System for Nuclear Genome of Chlamydomonas reinhardtii, Chinese Patents: 201810450251.8 (Applied)
+#EDUCATIONS
+- 201709-202004, M. Sc. (Major Analytical Chemistry)
+School of Chemical Engineering, Nanjing University of Science and Technology
+- 201309-201706, B. E. (Major Polymer Material and Engineering), Grade point average: 3.48
+School of Chemical Engineering, Nanjing University of Science and Technology
+#AWARDS
+- Twice winning first-class scholarship for Graduate Students (totally ¥18,000)
+- Twice winning first-class scholarship, once of second-class scholarship and fourth of third-class scholarship for Excellent Student (totally ¥1,700)
+#SKILLS
+- IELTS: 6.5, Listening 7.5, Reading 7.0, Writing 5.5, Speaking 5.5 (18/May/2019)
+- Driving License
+#REFEREES
+- Min Zhou, Professor, E-MAIL: minzhou@njust.edu.cn
+- Yinghong Lu, Associate Professor, E-MAIL: yinghonglu@njust.edu.cn
